@@ -1,140 +1,51 @@
-# Hey there, I'm Soumi! 👋
+<h3 align="center">
+  <samp>I'm Udita Chakraborty. AI Engineer based in Bengaluru, India.</samp>
+</h3>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=900&color=C08497&center=true&vCenter=true&width=700&lines=AI+Engineering+Enthusiast;Building+Agentic+AI+Systems;Exploring+LLMs+%26+Multi-Agent+Architectures;Turning+Ideas+Into+Working+Software" alt="Typing animation" />
+  <img src="https://img.shields.io/static/v1?label=&message=stack:&color=111&style=flat-square" alt="stack">
+  <img src="https://img.shields.io/static/v1?logo=python&label=&message=python&color=909FC6&logoColor=EEE&style=flat-square" alt="python">
+  <img src="https://img.shields.io/static/v1?logo=fastapi&label=&message=fastapi&color=909FC6&logoColor=EEE&style=flat-square" alt="fastapi">
+  <img src="https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=909FC6&logoColor=EEE&style=flat-square" alt="docker">
+  <img src="https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=909FC6&logoColor=EEE&style=flat-square" alt="kubernetes">
+  <img src="https://img.shields.io/static/v1?logo=git&label=&message=git&color=909FC6&logoColor=EEE&style=flat-square" alt="git">
+  <img src="https://img.shields.io/static/v1?logo=github&label=&message=github&color=909FC6&logoColor=EEE&style=flat-square" alt="github">
+  <img src="https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&color=909FC6&logoColor=EEE&style=flat-square" alt="vscode">
+  <img src="https://img.shields.io/static/v1?logo=googlegemini&label=&message=gemini&color=909FC6&logoColor=EEE&style=flat-square" alt="gemini">
+  <img src="https://img.shields.io/static/v1?logo=anthropic&label=&message=claude&color=909FC6&logoColor=EEE&style=flat-square" alt="claude">
+  <img src="https://img.shields.io/static/v1?logo=openai&label=&message=chatgpt&color=909FC6&logoColor=EEE&style=flat-square" alt="chatgpt">
 </p>
 
 <p align="center">
-  <a href="https://github.com/udii05">
-    <img src="https://img.shields.io/badge/GitHub-udii05-24292e?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://ship-gen.vercel.app/">
-    <img src="https://img.shields.io/badge/Flagship_Project-ShipGen-C08497?style=for-the-badge&logo=vercel&logoColor=white" alt="ShipGen"/>
-  </a>
+  <img src="https://img.shields.io/static/v1?label=&message=ai%20%2F%20ml:&color=111&style=flat-square" alt="AI / ML">
+  <img src="https://img.shields.io/static/v1?logo=langchain&label=&message=langchain&color=909FC6&logoColor=EEE&style=flat-square" alt="langchain">
+  <img src="https://img.shields.io/static/v1?logo=langgraph&label=&message=langgraph&color=909FC6&logoColor=EEE&style=flat-square" alt="langgraph">
+  <img src="https://img.shields.io/static/v1?logo=scikitlearn&label=&message=scikit-learn&color=909FC6&logoColor=EEE&style=flat-square" alt="scikit-learn">
+  <img src="https://img.shields.io/static/v1?logo=tensorflow&label=&message=tensorflow&color=909FC6&logoColor=EEE&style=flat-square" alt="tensorflow">
+  <img src="https://img.shields.io/static/v1?logo=pytorch&label=&message=pytorch&color=909FC6&logoColor=EEE&style=flat-square" alt="pytorch">
 </p>
 
----
+<p align="justify">
+  <samp>
+    Funny enough, my journey started with me using ChatGPT for coding in college. But I never realised that curiosity would turn into an actual obsession with AI, but here we are :octocat: ~ Now I build production-grade multi-agent systems that work in the real world. And honestly, I’m still excited by how much there is left to explore.
+  </samp>
+</p>
 
-### 🌷 A little about me
-
-I'm a Computer Science student specializing in **Artificial Intelligence and Machine Learning**, interested in building AI systems that go beyond generating text and actually get things done.
-
-- 🤖 Exploring **Agentic AI, LLMs, and multi-agent systems**
-- 🛠️ Building AI-powered applications and automation pipelines
-- 🧠 Learning how to design reliable, production-oriented AI systems
-- 💻 Working with Python, TypeScript, APIs, and modern development tools
-- 🌱 Currently deepening my foundations in AI engineering, mathematics, and systems development
-- 🎯 Interested in AI Engineer and applied AI opportunities
-
-> My goal is to build AI systems that solve real problems, not just impressive demos.
-
----
-
-### 🚀 Featured projects
-
-<table>
+<table align="center">
   <tr>
-    <td width="50%">
-      <h3>🤖 <a href="https://github.com/udii05/ship-gen">ShipGen</a></h3>
-      A multi-agent AI system designed to automate stages of the software development lifecycle.
-      <br/><br/>
-      <sub>Agentic AI · LLMs · Software Engineering</sub>
-    </td>
-    <td width="50%">
-      <h3>📰 <a href="https://github.com/udii05/agent-brief">Agent Brief</a></h3>
-      An Agentic AI-powered news briefing system that summarizes AIML developments and delivers updates to WhatsApp.
-      <br/><br/>
-      <sub>Python · Gemini · Automation</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💼 <a href="https://github.com/udii05/hire-alert">Hire-Alert</a></h3>
-      An AI-powered career discovery platform for finding relevant job opportunities.
-      <br/><br/>
-      <sub>Next.js · TypeScript · FastAPI</sub>
-    </td>
-    <td width="50%">
-      <h3>🛒 <a href="https://github.com/udii05/voice-cart">VoiceCart</a></h3>
-      A voice-first grocery shopping application built around speech-based interactions.
-      <br/><br/>
-      <sub>JavaScript · Web Speech API · Vite</sub>
+    <td width="5%" valign="top"><h1>"</h1></td>
+    <td width="95%" valign="middle">
+      <samp><i> unless i am myself, I'm nobody.</i></samp>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/udii05?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-View_Projects-C08497?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-  </a>
-</p>
-
 ---
 
-### 🧰 Tech stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,rust" alt="Programming languages"/>
-</p>
-
-**AI / Machine Learning**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" alt="AI and machine learning tools"/>
-  <br/>
-  <img src="https://img.shields.io/badge/LLMs-333333?style=flat-square" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-333333?style=flat-square" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
-</p>
-
-**Development and infrastructure**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,postgres,redis,docker,kubernetes,git,github,linux,vscode" alt="Development tools"/>
-</p>
-
----
-
-### 📊 GitHub at a glance
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=udii05&show_icons=true&hide_border=true&title_color=C08497&icon_color=C08497&theme=transparent" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udii05&layout=compact&hide_border=true&title_color=C08497&theme=transparent" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=udii05&hide_border=true&theme=transparent&ring=C08497&fire=C08497&currStreakLabel=C08497" alt="GitHub contribution streak"/>
-</p>
-
----
-
-### 🐍 My contribution journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/udii05/udii05/output/github-contribution-grid-snake.svg" alt="Animated contribution snake"/>
-</p>
-
----
-
-### 🌐 Let's connect
-
-<p align="center">
-  <a href="https://github.com/udii05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- Replace YOUR_LINKEDIN_USERNAME with your actual LinkedIn username -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udii05&style=flat-square&color=C08497&label=Profile+visitors" alt="Profile visitor counter"/>
-</p>
-
-<p align="center">
-  <i>Building, learning, experimenting — one commit at a time. 🌱</i>
+  <a href="https://github.com/udii05"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111?style=flat-square&logo=github&logoColor=909FC6" /></a>
+  <a href="http://linkedin.com/in/udita-chakrab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjOTA5RkM2Ij48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2B" /></a>
+  <a href="https://x.com/thisisudita"><img alt="X" src="https://img.shields.io/badge/X-111?style=flat-square&logo=x&logoColor=909FC6" /></a>
+  <a href="mailto:udita.chakraborty05@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=909FC6" /></a>
 </p>
